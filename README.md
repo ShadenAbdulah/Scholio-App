@@ -1,12 +1,15 @@
 
-![Logo](/assets/images/icon.svg)
+<div style="text-align: center;">
+  <img src="/assets/images/icon.svg" alt="Logo" style="width: 40%; display: inline-block;" />
+</div>
+
 
 
 # Scholio
 
 Scholio is a React Native mobile application designed for students. Scholio aims to provide a seamless and intuitive experience for managing courses, grades, announcements, and other academic activities.
 
-![image](/assets/mdAssets/FlashScreen.PNG)
+<img src="/assets/mdAssets/FlashScreen.PNG" style="width: 20%; border: 2px solid black;" />
 
 ## App Structure and Navigation
 
@@ -34,7 +37,8 @@ It includes four quick-access icons for:
 
 The central "My Courses" section displays a horizontally scrollable carousel of course cards for easy browsing. At the bottom, an "Announcement" section shows important messages or updates from the institution.
 
-![image](/assets/mdAssets/HomeScreen.PNG)
+<img src="/assets/mdAssets/HomeScreen.PNG" style="width: 20%; border: 2px solid black;" />
+
 
 ## Courses Screen UI
 
@@ -42,7 +46,4 @@ The **"Courses"** screen provides a comprehensive view of all courses the studen
 
 A prominent **search bar** is located at the top of the course list, enabling students to quickly find specific courses by typing keywords. Below the search bar, courses are listed as individual cards, each presenting key information relevant to that course. 
 
-![image](/assets/mdAssets/CoursesScreen.PNG)
-
-### Video
-[![Watch the video](/assets/mdAssets/FlashScreen.PNG)](/assets/mdAssets/Phase1_vid.MP4)
+<img src="/assets/mdAssets/CoursesScreen.PNG" style="width: 20%; border: 2px solid black;" />
